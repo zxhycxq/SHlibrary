@@ -10,4 +10,20 @@
 	margin-top: 10px;
 	display: block;
 	wdth:100px;
+	color: #fff;
+	letter-spacing: 2px;
+	background-color: dodgerblue;
+}
+/*
+ */
+.result-top{
+	text-align: center;
+}
+.result-wrap{
+	width: 90%;
+	margin:0 auto;
+	
+}
+.result-item{
+margin-bottom: 10px;	
 }
