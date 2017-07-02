@@ -1,0 +1,13 @@
+.index-search{
+	width: 80%;
+	height: 30px;
+	margin:0 auto;
+	margin-top: 10px;
+	display: block;
+}
+.search-submit{	
+	margin:0 auto;
+	margin-top: 10px;
+	display: block;
+	wdth:100px;
+}
